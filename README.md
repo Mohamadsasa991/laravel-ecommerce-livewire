@@ -30,6 +30,27 @@ A full-featured E-Commerce web application built using **Laravel 10**, **Livewir
 - Database migrations & seeders
 - Eloquent ORM relationships
 
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Products Page
+![Products](screenshots/products.png)
+
+### Shopping Cart
+![Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+
+
+
 ## ⚙️ Installation
 
 ```bash
