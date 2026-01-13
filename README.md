@@ -1,6 +1,6 @@
 # E-Commerce Web Application
 
-A full-featured E-Commerce web application built using **Laravel 10**, **Livewire 3**, **Filament 3**, and **Tailwind CSS**.
+A full-featured E-Commerce web application built using **Laravel 11**, **Livewire 3**, **Filament 3**, and **Tailwind CSS**.
 
 ## 🚀 Features
 
@@ -16,11 +16,11 @@ A full-featured E-Commerce web application built using **Laravel 10**, **Livewir
 
 ## 🛠 Tech Stack
 
-- **Backend:** Laravel 10
+- **Backend:** Laravel 11
 - **Frontend:** Livewire 3, Blade
 - **Admin Panel:** Filament 3
 - **Styling:** Tailwind CSS
-- **Database:** MySQL
+- **Database:** Sqlite
 - **Authentication:** Laravel Auth
 
 ## 📂 Project Structure
