@@ -54,10 +54,13 @@ A full-featured E-Commerce web application built using **Laravel 10**, **Livewir
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/USERNAME/REPO_NAME.git
+cd REPO_NAME
 composer install
+npm install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
+php artisan storage:link
+npm run build
 php artisan serve
