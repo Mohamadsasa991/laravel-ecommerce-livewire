@@ -1,0 +1,42 @@
+# E-Commerce Web Application
+
+A full-featured E-Commerce web application built using **Laravel 10**, **Livewire 3**, **Filament 3**, and **Tailwind CSS**.
+
+## 🚀 Features
+
+- User authentication (register, login)
+- Product listing with categories
+- Shopping cart functionality
+- Checkout & order management
+- Admin dashboard using Filament 3
+- Product, category, and order management
+- Order statistics & filtering
+- Responsive UI with Tailwind CSS
+- Payment methods (Cash on Delivery / Stripe)
+
+## 🛠 Tech Stack
+
+- **Backend:** Laravel 10
+- **Frontend:** Livewire 3, Blade
+- **Admin Panel:** Filament 3
+- **Styling:** Tailwind CSS
+- **Database:** MySQL
+- **Authentication:** Laravel Auth
+
+## 📂 Project Structure
+
+- MVC architecture
+- Clean and scalable codebase
+- Database migrations & seeders
+- Eloquent ORM relationships
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
